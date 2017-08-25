@@ -9,4 +9,5 @@ au BufNewFile,BufRead */src/paysubs/* set filetype=basic
 au BufNewFile,BufRead */src/ratesubs/* set filetype=basic
 au BufNewFile,BufRead */src/ims_basic/* set filetype=basic
 au BufNewFile,BufRead */src/ims/* set filetype=basic
+au BufNewFile,BufRead */src/tests/* set filetype=basic
 

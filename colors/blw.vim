@@ -82,7 +82,7 @@ hi VisualNOS      guibg=#000000 guifg=#696567 gui=none term=bold,underline cterm
 
 " -> Code
 hi Comment        guibg=#1F1F1F guifg=#696567 gui=italic term=none cterm=none ctermbg=NONE ctermfg=227 "alt: guifg=#5f5f5f
-hi Constant       guibg=#1F1F1F guifg=#6DF584 gui=none term=underline cterm=NONE ctermbg=NONE ctermfg=83
+hi Constant       guibg=#1F1F1F guifg=#6DF584 gui=none term=underline cterm=NONE ctermbg=NONE ctermfg=178
 hi String         guibg=#1F1F1F guifg=#FFB539 gui=none term=NONE cterm=NONE ctermbg=NONE ctermfg=48
 hi Error          guibg=#1F1F1F guifg=#FC4234 gui=none term=reverse cterm=NONE ctermbg=NONE ctermfg=203 "alt: guifg=#0fc416
 hi Identifier     guibg=#1F1F1F guifg=#70BDF1 gui=none term=underline cterm=NONE ctermbg=NONE ctermfg=75
